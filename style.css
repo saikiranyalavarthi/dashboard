@@ -1,0 +1,43 @@
+
+    .left {
+      width: 20%;
+      float: left;
+      background-color: #f1f1f1;
+      padding: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-evenly;
+      background-color: antiquewhite;
+      color: blue;
+      margin: auto;
+     
+
+    }
+    .left a:hover{
+        color: rgb(192, 43, 226);
+        cursor: pointer;
+    }
+
+
+    .content {
+      margin-left: 20%;
+      padding: 50px;
+      margin: auto;
+      color: black;
+    }
+h2{
+    color: red;
+}
+p{
+    color: rgb(60, 210, 30);
+}
+.matter{
+  
+    align-items: center;
+    justify-content: center;
+top: 250px;
+left: 550px;
+position: relative;
+
+
+}
